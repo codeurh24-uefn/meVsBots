@@ -1,0 +1,18 @@
+zlib licence
+
+Version 1.0, 01/01/2024
+
+Droits d'auteur (c) 2024 Florent Corlouer (codeurh24)
+
+La permission est accordée de copier, distribuer et/ou modifier ce logiciel,
+à condition que l'attribution à l'auteur d'origine ne soit pas modifiée.
+Aucune autre modification n'est autorisée sans l'autorisation écrite expresse
+du titulaire des droits d'auteur.
+
+LE LOGICIEL EST FOURNI "TEL QUEL", SANS AUCUNE GARANTIE, EXPRESSE OU IMPLICITE,
+Y COMPRIS MAIS SANS S'Y LIMITER AUX GARANTIES DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER,
+ET DE NON-CONTREFAÇON. EN AUCUN CAS, LES AUTEURS OU LES TITULAIRES DES DROITS D'AUTEUR
+NE PEUVENT ÊTRE TENUS RESPONSABLES POUR TOUTE RÉCLAMATION, DOMMAGE
+OU AUTRE RESPONSABILITÉ, QUE CE SOIT DANS LE CADRE D'UNE ACTION CONTRACTUELLE, DÉLICTUELLE
+OU AUTRE, DÉCOULANT DE, HORS DE, OU EN RELATION AVEC LE LOGICIEL
+OU L'UTILISATION OU AUTRES OPÉRATIONS DANS LE LOGICIEL.
