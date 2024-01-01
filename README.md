@@ -1,5 +1,5 @@
 Page de code concerné par le développement UEFN :  
-[Plugins\meVsBots\Content\spawner_device.verse](Plugins\meVsBots\Content\spawner_device.verse)  
+[Plugins\meVsBots\Content\spawner_device.verse](/codeurh24-uefn/meVsBots/blob/master/Plugins/meVsBots/Content/spawner_device.verse)  
   
 Le concept est de s'entraîner contre des bots sans limite de temps, ni besoin de relancer manuellement le combat. Une fois les bots éliminés, ils réapparaissent, à ce moment-là, les builds sont essentielles pour restaurer ces points de vie.  
   
